@@ -4,7 +4,7 @@ My personal homelab running Proxmox, WireGuard, Vaultwarden, and Caddy, with cus
 
 ## About
 
-I've built this homelab for fun, security, and educational purposes. You'll find that all of my gear consists of affordable, older components I've either purchased or acquired for free. Security is a prime concern, and I've focused on keeping everything as locked down as possible. I strongly prefer open-source, well-documented materials with large communities, as I am entirely self-taught and learning as I go.
+I've built this homelab for fun, security, and educational purposes. You'll find that all of my gear consists of affordable, older components I've either purchased or acquired for free. Security is a prime concern, and I've focused on keeping everything as locked down as possible. I strongly prefer open-source, well-documented materials with large communities, as I am learning as I go.
 
 ## Core Functionality
 
