@@ -35,7 +35,7 @@ Low-power, high-availability monitoring. This currently runs off the usb on the 
 
 Role: Runs the "Watchdog" stack. By keeping DNS (AdGuard) and Monitoring (Uptime Kuma/Homepage) on a separate low-power device, the home internet stays up even if the main server goes down for maintenance.
 
-Services: AdGuard Home (backup), Uptime Kuma, Homepage, Log2Ram, Minecraft Server - All on docker. I also have a script that can send a magic packet to wakeup the primary server in the event of shutdown. Uptime Kuma has its own Discord server, so it can notify me in the event I lose services.
+Services: AdGuard Home (backup), Tailscale, Uptime Kuma, Homepage, Log2Ram, Minecraft Server - All on docker. I also have a script that can send a magic packet to wakeup the primary server in the event of shutdown. Uptime Kuma has its own Discord server, so it can notify me in the event I lose services.
 
 * **Raspberry Pi 5 8gig:** Experimental playground.
 
